@@ -23,8 +23,8 @@ cat > "$app/Contents/Info.plist" <<'PLIST'
     <key>CFBundleIconFile</key>          <string>AppIcon</string>
     <key>CFBundleName</key>              <string>DiskFree</string>
     <key>CFBundlePackageType</key>       <string>APPL</string>
-    <key>CFBundleShortVersionString</key><string>1.1</string>
-    <key>CFBundleVersion</key>           <string>2</string>
+    <key>CFBundleShortVersionString</key><string>1.2</string>
+    <key>CFBundleVersion</key>           <string>3</string>
     <key>LSMinimumSystemVersion</key>    <string>13.0</string>
     <key>LSArchitecturePriority</key>    <array><string>arm64</string></array>
     <key>LSUIElement</key>               <true/>
